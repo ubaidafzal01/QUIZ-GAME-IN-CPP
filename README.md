@@ -74,4 +74,4 @@ Ubaid Afzal (25F-0570)
 Taha (25F-0755)
 
 ---
-*Created by Ahmad Faraz*
+*Created by Ubaid Afzal*
