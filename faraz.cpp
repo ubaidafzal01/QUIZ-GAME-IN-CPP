@@ -295,6 +295,8 @@ void printInstructions()
 	printCentered("    2.0. Select the correct option (A-D)                          ", '|');
 	printCentered("    3.0. You have 10 seconds for each MCQ                         ", '|');
 	printCentered("    4.0. Each correct answer =  1 point                           ", '|');
+	printCentered("    4.2. Streak >=3  =  +5  point                                 ", '|');
+	printCentered("    4.2. Streak >=5  =  +15 point                                 ", '|');
 	printCentered("    5.0. Wrong Answer = -2 points for difficulty 1                ", '|');
 	printCentered("    5.1. Wrong Answer = -3 points for difficulty 2                ", '|');
 	printCentered("    5.2. Wrong Answer = -5 points for difficulty 3                ", '|');
@@ -331,9 +333,12 @@ void printCredits()
 	drawDecoration('|', ' ', '|');
 	drawDecoration('|', ' ', '|');
 	printCentered("CREDITS:", '|');
-	printCentered("    Ahmad Faraz (25F-0510)    ", '|');
-	printCentered("    Ubaid Afzal (25F-0570)    ", '|');
-	printCentered("    Taha (25F-0755)           ", '|');
+	printCentered(" ", '|');
+	printCentered("    Name  FAST-NUCES Reg. No.   ", '|');
+	printCentered(" ", '|');
+	printCentered("    Ahmad Faraz   (25F-0510)    ", '|');
+	printCentered("    Ubaid Afzal   (25F-0570)    ", '|');
+	printCentered("    Muhammad Taha (25F-0755)    ", '|');
 	drawDecoration('|', ' ', '|');
 	drawDecoration('|', ' ', '|');
 	drawDecoration('.', '=', '.');
