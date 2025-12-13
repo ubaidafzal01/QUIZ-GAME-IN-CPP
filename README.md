@@ -1,54 +1,77 @@
-# QUIZ-GAME-IN-CPP
-# 🎯 Console-Based Quiz Game (C++)
+# 🎮 C++ Terminal Trivia - Console Based Quiz Game
 
-An interactive **console-based quiz game** developed in **C++** as part of the Programming Fundamentals course at **FAST National University**.  
-This project emphasizes modular design, file handling, and real-world problem-solving using core C++ concepts.
+![C++](https://img.shields.io/badge/Language-C++-blue.svg) ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Mac-lightgrey.svg) ![Status](https://img.shields.io/badge/Status-Complete-green.svg)
 
----
+> A robust, feature-rich console-based trivia application offering single and multiplayer modes, admin management, and detailed performance tracking.
 
-## 📌 Project Overview
+## 📖 Overview
 
-The Quiz Game is a dynamic examination system that allows users to attempt quizzes from multiple categories with selectable difficulty levels.  
-Questions are loaded from external files, gameplay is time-bound, and scoring is enhanced with gamification features such as lifelines and streak bonuses.
+This project is a comprehensive C++ console application designed to simulate a real-world quiz environment. It moves beyond simple input/output by incorporating file handling for question management, sophisticated scoring logic, input validation, and a competitive 2-player mode.
 
----
+Whether you want to test your knowledge, challenge a friend, or manage a quiz database as an Admin, this application handles it all with a polished user interface.
 
-## 🚀 Features
+## ✨ Key Features
 
-- 📂 File-based question loading (no hardcoded data)  
-- 🧠 Multiple categories (Science, CS, History, Logic, etc.)  
-- 🎚️ Difficulty levels: **Easy, Medium, Hard**  
-- 🔀 Randomized questions and options each session  
-- ⏱️ Timed questions with instant feedback  
-- 🎮 Lifelines:  
-  - 50/50  
-  - Skip Question  
-  - Swap Question  
-  - Time Extension  
-- 🔥 Streak bonuses & difficulty-based negative marking  
-- 🏆 Persistent leaderboard (Top 5 scores)  
-- 📊 Session logging & review mode  
-- 🧩 Modular, readable, and well-documented code  
+### ⚙️ Core System
+* **Beautiful Main Menu:** A visually engaging text-based interface.
+* **Robust Input Validation:** Prevents crashes by handling invalid user inputs gracefully.
+* **File Handling:** All data (questions, logs, high scores) is persistent.
+
+### 🕹️ Game Modes
+* **Single Player:** Challenge yourself against the clock.
+* **2-Player Mode:** Compete head-to-head with a friend on the same console.
+* **Admin Mode:** A secured area where administrators can add new questions directly to the source file.
+
+### 📊 Tracking & Stats
+* **Leaderboard:** Displays the Top 5 players based on high scores.
+* **Streak Calculator:** Tracks consecutive correct answers.
+* **Game Review:** distinct summary at the end of the game showing performance.
+* **Activity Log:** Saves game data automatically for future reference.
 
 ---
 
-## 🛠️ Technologies Used
+## 📝 Game Rules & Scoring System
 
-- **Language:** C++  
-- **IDE:** Microsoft Visual Studio  
-- **Concepts:**  
-  - Modular programming  
-  - Arrays & structures  
-  - File handling (read/write)  
-  - Input validation  
-  - Randomization & algorithms  
+The game consists of **10 Questions** per session. Players must select the correct option (A-D) within a **10-second timer**.
+
+### Difficulty Levels
+The user can select from three difficulty levels. The scoring logic changes based on the risk level:
+
+| Difficulty Level | Correct Answer | Wrong Answer Penalty |
+| :--- | :---: | :---: |
+| **Level 1 (Easy)** | +1 Point | -2 Points |
+| **Level 2 (Medium)** | +1 Point | -3 Points |
+| **Level 3 (Hard)** | +1 Point | -5 Points |
 
 ---
 
-## 🧪 How to Run
+## 🆘 Lifelines
 
-1. Clone the repository:
+To assist players during difficult questions, three unique lifelines are available (usable once per game):
 
-```bash
-git clone https://github.com/your-username/quiz-game-cpp.git
+1.  **50/50:** Removes two incorrect options, leaving one correct and one wrong answer.
+2.  **Skip:** Allows the player to skip the current question without any point penalty.
+3.  **Swap:** Replaces the current question with a new, random question from the database.
 
+---
+
+## 🛠️ Technical Implementation
+
+### Data Structure
+* **Questions:** Stored in text files, parsed at runtime.
+* **User Data:** Arrays used to manage player names, scores, and streaks.
+
+### Algorithms
+* **Sorting:** Used to arrange the Leaderboard (Top 5).
+* **Randomization:** Ensures questions are shuffled and not repeated immediately.
+* **Timer:** implemented using `<ctime>` or standard threading libraries to enforce the 10-second limit.
+
+---
+
+## 🤝 Contributing
+Ahmad Faraz (25F-0510)
+Ubaid Afzal (25F-0570)
+Taha (25F-0755)
+
+---
+*Created by Ahmad Faraz*
