@@ -1,0 +1,402 @@
+100
+1
+What is the chemical symbol for water?
+H2O H2 H2O2 O2
+A
+1
+Which planet is known as the "Red Planet"?
+Venus Mars Jupiter Saturn
+B
+1
+What is the SI unit of electric current?
+Volt Ohm Ampere Watt
+C
+1
+What process do plants use to make their food?
+Respiration Transpiration Photosynthesis Fermentation
+C
+1
+Which force keeps planets in orbit around the Sun?
+Magnetic-force Nuclear-force Gravity Centrifugal-force
+C
+1
+What is the hardest natural substance on Earth?
+Gold Quartz Diamond Graphite
+C
+1
+What is the approximate speed of light in a vacuum?
+300,000-km/s 343-m/s 100,000-km/s 1,080-km/h
+A
+1
+The human body is made up of approximately what percentage of water?
+25% 45% 60% 80%
+C
+1
+Which gas do humans primarily exhale?
+Oxygen Nitrogen Carbon-Dioxide Hydrogen
+C
+1
+What is the pH value of a neutral solution?
+0 7 14 10
+B
+1
+What is the boiling point of pure water at standard atmospheric pressure in Celsius?
+0-degrees-C 50-degrees-C 100-degrees-C 212-degrees-C
+C
+1
+Which instrument is used to measure atmospheric pressure?
+Ammeter Thermometer Barometer Hydrometer
+C
+1
+What type of reaction releases heat?
+Endothermic-Reaction Oxidation-Reaction Reduction-Reaction Exothermic-Reaction
+D
+1
+The primary function of red-blood-cells is to transport what?
+Nutrients Hormones Oxygen Waste-products
+C
+1
+What is the study of living organisms called?
+Geology Biology Physics Astronomy
+B
+1
+Which simple machine is essentially an inclined plane wrapped around a cylinder?
+Lever Pulley Screw Wheel-and-Axle
+C
+1
+What is the chemical symbol for Gold?
+Ag Au Fe G
+B
+1
+What is the center of an atom called?
+Nucleus Proton Electron Neutron
+A
+1
+Which famous equation relates mass and energy?
+F=ma P=IV E=mc-squared V=IR
+C
+1
+What is the main component of natural gas?
+Propane Butane Methane Ethane
+C
+2
+Who formulated the laws of motion and universal gravitation?
+Albert-Einstein Galileo-Galilei Isaac-Newton Nikola-Tesla
+C
+2
+In which phase change does a liquid turn directly into a gas without becoming solid?
+Melting Sublimation Evaporation Condensation
+C
+2
+What is the function of the ribosome in a cell?
+Energy-production Protein-synthesis Waste-removal DNA-replication
+B
+2
+Which layer of the atmosphere contains the ozone layer?
+Troposphere Stratosphere Mesosphere Thermosphere
+B
+2
+What is the general term for a substance that speeds up a chemical reaction without being consumed?
+Reactant Catalyst Solvent Product
+B
+2
+How many pairs of chromosomes do normal human cells typically have?
+12 23 35 46
+B
+2
+Which type of lens is used to correct short-sightedness (myopia)?
+Convex-lens Concave-lens Plano-lens Cylindrical-lens
+B
+2
+What is the primary product of the fusion reaction in the Sun?
+Hydrogen Helium Carbon Oxygen
+B
+2
+The splitting of a heavy atomic nucleus into two or more smaller nuclei is called what?
+Fusion Fission Decay Isotope-generation
+B
+2
+What is the scientific name for the collarbone?
+Femur Clavicle Scapula Humerus
+B
+2
+Which element is essential for the formation of rust (iron oxide)?
+Carbon Nitrogen Hydrogen Oxygen
+D
+2
+The Richter-scale is used to measure the magnitude of what natural phenomenon?
+Tornadoes Volcanic-eruptions Earthquakes Tsunamis
+C
+2
+The half-life of a radioactive isotope is the time it takes for what fraction of the sample to decay?
+One-quarter One-third One-half Two-thirds
+C
+2
+Which gland in the human body is known as the 'master gland'?
+Thyroid Pancreas Pituitary Adrenal
+C
+2
+What is the primary role of decomposers in an ecosystem?
+Produce-food Consume-producers Break-down-dead-matter Convert-light-energy
+C
+2
+The property of a body to resist changes to its state of motion is called what?
+Momentum Inertia Velocity Acceleration
+B
+2
+Which vitamin is primarily synthesized when the skin is exposed to sunlight?
+Vitamin-A Vitamin-C Vitamin-D Vitamin-K
+C
+2
+What is the measure of the average kinetic energy of the particles in a substance?
+Heat Temperature Thermal-energy Specific-heat
+B
+2
+Which type of rock is formed from the cooling and solidification of molten magma or lava?
+Sedimentary-rock Metamorphic-rock Igneous-rock Fossil-rock
+C
+3
+What is the phenomenon where light bends as it passes from one medium to another?
+Reflection Diffraction Refraction Dispersion
+C
+3
+Which famous experiment confirmed the wave nature of electrons?
+Rutherford's-Gold-Foil Millikan's-Oil-Drop Photoelectric-Effect Davisson-Germer-Experiment
+D
+3
+What specific structure in the lungs is responsible for gas exchange?
+Bronchi Alveoli Trachea Diaphragm
+B
+3
+The total number of atoms in one molecule of sulfuric acid (H2SO4) is?
+3 5 6 7
+D
+3
+In genetics, what term describes the specific location of a gene on a chromosome?
+Allele Locus Phenotype Genotype
+B
+3
+The unit of magnetic flux density is the?
+Henry Tesla Weber Gauss
+B
+3
+Which of the following colors of visible light has the longest wavelength?
+Violet Green Red Blue
+C
+3
+The process by which bacteria convert atmospheric nitrogen into compounds usable by plants is called?
+Denitrification Ammonification Nitrogen-fixation Nitrification
+C
+3
+What phenomenon causes the sky to appear blue?
+Absorption Reflection Refraction Scattering
+D
+3
+The process of separating a solid from a liquid in a suspension using centrifugal force is called?
+Decanting Filtration Centrifugation Distillation
+C
+3
+Which of the following is the largest known organ in the human body (by weight)?
+Heart Brain Skin Liver
+C
+3
+In the periodic table, what is the vertical column called?
+Period Group Series Block
+B
+3
+What is the concept that no two electrons in an atom can have the same set of four quantum numbers?
+Heisenberg-Uncertainty-Principle Aufbau-Principle Hund's-Rule Pauli-Exclusion-Principle
+D
+3
+Which structure allows blood to flow only in one direction within the heart?
+Septum Atria Ventricles Valves
+D
+3
+The formula for calculating kinetic energy (KE) is?
+KE=mgh KE=1/2*mv-squared KE=Pt KE=Fd
+B
+3
+The maximum density of water occurs at what temperature in Celsius?
+0-degrees-C 4-degrees-C 10-degrees-C 100-degrees-C
+B
+3
+Which term describes organisms that derive energy from inorganic chemical reactions?
+Photoautotrophs Chemoautotrophs Heterotrophs Saprotrophs
+B
+3
+What is the technical term for the 'ringing in the ears' sensation?
+Vertigo Otitis Tinnitus Myopia
+C
+3
+What is the main advantage of using fiber-optics over copper-wires for data transmission?
+Lower-cost Higher-heat-resistance Lower-attenuation-(loss) Greater-mechanical-strength
+C
+3
+Which type of energy conversion occurs in a hydroelectric dam?
+Chemical-to-Electrical Thermal-to-Mechanical Potential-to-Electrical Kinetic-to-Sound
+C
+1
+Which primary color of light, when mixed with green light, produces cyan?
+Red Blue Yellow Magenta
+B
+1
+The unit of power is the?
+Joule Newton Watt Volt
+C
+1
+Where in the cell is the genetic material (DNA) primarily stored?
+Cytoplasm Mitochondria Nucleus Vacuole
+C
+1
+The periodic table is organized by increasing number of what?
+Neutrons Electrons Protons Atomic-mass
+C
+1
+What is the scientific term for a shortage of oxygen in the blood?
+Anemia Hypoxia Hyperglycemia Ischemia
+B
+1
+Which type of radiation is stopped by a thick sheet of paper?
+Alpha-rays Beta-rays Gamma-rays X-rays
+A
+1
+The freezing point of water in the Fahrenheit scale is?
+0-degrees-F 32-degrees-F -32-degrees-F 212-degrees-F
+B
+1
+What is the purpose of the cerebellum in the brain?
+Breathing Memory Coordination-and-Balance Vision
+C
+1
+Which element is present in all organic compounds?
+Nitrogen Oxygen Carbon Sulfur
+C
+1
+What is the common name for sodium chloride (NaCl)?
+Baking-Soda Table-Sugar Bleach Table-Salt
+D
+2
+What is the distance light travels in one Earth-year called?
+Kilometer Light-minute Light-year Astronomical-unit
+C
+2
+The term 'endoskeleton' refers to a skeleton that is located where?
+Outside-the-body In-the-muscles Inside-the-body Under-the-skin
+C
+2
+The law of conservation of energy states that energy cannot be created or destroyed, only what?
+Lost Converted Concentrated Expanded
+B
+2
+Who is credited with the discovery of Penicillin?
+Louis-Pasteur Robert-Koch Alexander-Fleming Jonas-Salk
+C
+2
+What term describes the evolutionary process where an organism becomes better suited to its environment?
+Mutation Adaptation Speciation Natural-selection
+B
+2
+Which unit is equivalent to a Joule per second (J/s)?
+Newton Watt Volt Ohm
+B
+2
+What is the main function of the gall-bladder?
+Produce-bile Store-bile Detoxify-blood Regulate-blood-sugar
+B
+2
+The concept that all matter is composed of small particles (atoms) was first proposed by whom?
+Democritus Plato Aristotle Socrates
+A
+2
+The bending of waves around the corners of an obstacle is known as?
+Refraction Reflection Diffraction Interference
+C
+2
+Which blood group is considered the universal recipient?
+A B O AB
+D
+2
+In a simple electric circuit, what is the relationship between voltage (V), current (I), and resistance (R)?
+V=IR R=VI I=VR V=I/R
+A
+2
+Which type of chemical bond involves the sharing of electron pairs between atoms?
+Ionic-bond Metallic-bond Covalent-bond Hydrogen-bond
+C
+2
+The scientific name for the organism responsible for malaria is?
+Virus Bacteria Fungi Protozoa
+D
+2
+What is the speed of sound generally faster in?
+Vacuum Air Water Solid-steel
+D
+3
+What is the minimum temperature at which a substance ignites spontaneously without an external spark?
+Boiling-point Flash-point Autoignition-temperature Melting-point
+C
+3
+The maximum range of a projectile fired on a flat surface is achieved at which launch angle?
+30-degrees 45-degrees 60-degrees 90-degrees
+B
+3
+What is the process of generating an electric current by moving a magnet through a coil of wire called?
+Ohm's-Law Electromagnetism Magnetic-Induction Static-electricity
+C
+3
+The conversion of RNA information into protein is called?
+Replication Transcription Translation Mutation
+C
+3
+The SI unit for frequency is the?
+Hertz Second Meter Decibel
+A
+3
+What is the name of the membrane that covers the lungs?
+Peritoneum Pleura Pericardium Meninges
+B
+3
+The type of reproduction that involves the fusion of male and female gametes is?
+Asexual Budding Vegetative Sexual
+D
+3
+What is the primary factor that determines the chemical properties of an element?
+Number-of-neutrons Number-of-valence-electrons Atomic-mass Number-of-isotopes
+B
+3
+The phenomenon of a telescope producing a colored fringe around an image is known as?
+Spherical-aberration Chromatic-aberration Coma-distortion Field-curvature
+B
+3
+The process of converting sugar into alcohol or acid using microorganisms is called?
+Respiration Hydrolysis Fermentation Polymerization
+C
+3
+Which type of mirror is used by dentists to get a magnified image of the teeth?
+Plane-mirror Convex-mirror Concave-mirror Parabolic-mirror
+C
+3
+What is the name for the protective structure of a bacterial cell outside the cell wall?
+Pili Flagellum Capsule Plasmid
+C
+3
+What is the name of the protective layer of cells in the epidermis that helps prevent water loss?
+Dermis Keratin Hypodermis Melanin
+B
+3
+The mass defect in a nuclear reaction is converted into energy according to which principle?
+Conservation-of-momentum Law-of-definite-proportions E=mc-squared Heisenberg-uncertainty
+C
+3
+Which gas is responsible for the greenhouse effect and accounts for the largest share of global warming?
+Methane Nitrous-Oxide Carbon-Dioxide Ozone
+C
+3
+What is the SI unit for the amount of substance?
+Mole Gram Liter Dalton
+A
+3
+The condition where the body produces too little insulin or cannot properly use the insulin it makes is known as?
+Hepatitis Arthritis Diabetes-Mellitus Asthma
+C
+
