@@ -169,14 +169,30 @@ void printSession(const int& N,  int questionDiff[], string questionText[],  str
 
 		input_validation(choosedch, isG_used, is_skip_used, is_swap_used);
 		int temp = time_up_continue(choosedch, points, questionDiff, randomIndex, streak_count, i);
-		if (temp == 1) continue;
+		if (temp == 1) {
+			for (int j = 0;j < 4;j++) {
+				if (correctAns[i] != 'A') {
+					choosedch = 'A';
+					userAnswer[i] = choosedch;
+					break;
+				}
+				else {
+					choosedch = 'B';
+					userAnswer[i] = choosedch;
+					break;
+				}
+			}
+			continue;
+		}
 		// Process Lifelines (G/S/O)
 		if (choosedch == 'G' && !isG_used) {
-			streak_count = 0;
 			isG_used = true;
 			cout << "\n\n\t50/50 used! You have 10 seconds to answer...\n";
 			if (correctAns[randomIndex[i]] == 'A') {
-				int p = (rand() % (3 - 1 + 1)) + 1;
+				int p = rand() % 3;
+				while (p == 0) {
+					p = rand() % (3);
+				}
 				char temp_ch[3] = { 'B','C','D' };
 				cout << "\t(" << correctAns[randomIndex[i]] << ") " << left << setw(35) << questionOption[randomIndex[i]][0];
 				cout << "(" << temp_ch[p] << ") " << left << setw(35) << questionOption[randomIndex[i]][p];
@@ -263,8 +279,10 @@ void printSession(const int& N,  int questionDiff[], string questionText[],  str
 				}
 			}
 			if (correctAns[randomIndex[i]] == 'B') {
-				int p = rand() % (3);
-				if (p == 1) p += 1;
+				int p = rand() % 3;
+				while (p == 1) {
+					p = rand() % (3);
+				}
 				char temp_ch[3] = { 'A','C','D' };
 				if (p == 0) {
 					cout << "\t(" << temp_ch[p] << ") " << setw(40) << questionOption[randomIndex[i]][p];
@@ -288,7 +306,7 @@ void printSession(const int& N,  int questionDiff[], string questionText[],  str
 						}
 						if (choosedch != 'B' && choosedch != temp_ch[p] && choosedch != 'G' && choosedch != 'S' && choosedch != 'O')
 						{
-							cout << "\nInvalid Input:\n" << "\t" << ">> Enter the Answer (A/B) or lifelines (G/S/O) only: ";
+							cout << "\n\tInvalid Input:\n" << "\t" << ">> Enter the Answer (A/B) or lifelines (G/S/O) only: ";
 							continue;
 						}
 						if (choosedch == 'G' && isG_used) {
@@ -428,7 +446,9 @@ void printSession(const int& N,  int questionDiff[], string questionText[],  str
 			}
 			if (correctAns[randomIndex[i]] == 'C') {
 				int p = rand() % (3);
-				if (p == 2) p += 1;
+				while (p == 2) {
+					p = rand() % (3);
+				}
 				char temp_ch[3] = { 'A','B','D' };
 				if (p == 0 || p == 1) {
 					cout << "\t(" << temp_ch[p] << ") " << setw(40) << questionOption[randomIndex[i]][p];
@@ -452,7 +472,7 @@ void printSession(const int& N,  int questionDiff[], string questionText[],  str
 						}
 						if (choosedch != 'C' && choosedch != temp_ch[p] && choosedch != 'G' && choosedch != 'S' && choosedch != 'O')
 						{
-							cout << "\nInvalid Input:\n" << "\t" << ">> Enter the Answer (" << temp_ch[p] << "/C) or lifelines (G/S/O) only: ";
+							cout << "\n\tInvalid Input:\n" << "\t" << ">> Enter the Answer (" << temp_ch[p] << "/C) or lifelines (G/S/O) only: ";
 							continue;
 						}
 						if (choosedch == 'G' && isG_used) {
